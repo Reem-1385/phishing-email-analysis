@@ -1,0 +1,6 @@
+sender,subject,body,url,result
+support@bank-example.com,Monthly account statement,Your monthly statement is ready to review.,,No Obvious Indicators
+winner@unknown-site.com,You won a free prize!,You won a prize. Click this link immediately to claim it.,http://unknown-prize.example,Potential Phishing
+security@company-example.com,Security notice,Please review the recent security notice for your account.,,No Obvious Indicators
+urgent@fake-alert.com,Urgent! Verify your account now,Your account will be blocked. Verify your password immediately.,http://fake-alert.example/login,Potential Phishing
+student@university-example.edu,Class schedule update,The updated class schedule is available for students.,,No Obvious Indicators

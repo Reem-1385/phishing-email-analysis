@@ -1,0 +1,3 @@
+sender,subject,body,url,result
+winner@unknown-site.com,You won a free prize!,You won a prize. Click this link immediately to claim it.,http://unknown-prize.example,Potential Phishing
+urgent@fake-alert.com,Urgent! Verify your account now,Your account will be blocked. Verify your password immediately.,http://fake-alert.example/login,Potential Phishing
